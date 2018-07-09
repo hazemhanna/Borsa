@@ -1,0 +1,15 @@
+PODS:
+  - MarqueeLabel/Swift (3.1.4)
+  - OneSignal (2.8.4)
+
+DEPENDENCIES:
+  - MarqueeLabel/Swift
+  - OneSignal
+
+SPEC CHECKSUMS:
+  MarqueeLabel: bf768455fe88d427f71476ebb23f9092b660f40b
+  OneSignal: 7218a5a787f6685de81bdb487e696439e8c8f59b
+
+PODFILE CHECKSUM: 65ce148c3eeefd1c28e700ba45a78d8a154bd243
+
+COCOAPODS: 1.3.1

@@ -1,0 +1,6 @@
+framework module Pods_Borsa {
+  umbrella header "Pods-Borsa-umbrella.h"
+
+  export *
+  module * { export * }
+}
